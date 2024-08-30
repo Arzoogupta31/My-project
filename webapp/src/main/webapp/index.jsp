@@ -107,7 +107,7 @@
         <a href="#contact">Contact</a>
     </div>
 
-    <h1>Welcome to Archana's Team</h1>
+    <h1>Welcome to Arzoo's Team</h1>
     <h2>Pool SCM</h2>
 
     <div class="container">
